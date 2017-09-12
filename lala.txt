@@ -4,5 +4,4 @@ hoho
 ini di awal
 masih di master
 
-ini feature baru
-feature dalam perkembangan
+masih kerjas
