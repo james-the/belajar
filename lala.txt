@@ -7,3 +7,6 @@ masih di master
 masih kerjas
 
 local commit
+orang lain kerja
+
+remote commit
