@@ -8,3 +8,5 @@ ini feature baru
 feature dalam perkembangan
 
 orang lain kerja
+
+remote commit
